@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pract14_Taztdinova", "Pract14_Taztdinova.csproj", "{0D42B2AA-568E-4763-9406-0C6789598867}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D42B2AA-568E-4763-9406-0C6789598867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D42B2AA-568E-4763-9406-0C6789598867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D42B2AA-568E-4763-9406-0C6789598867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D42B2AA-568E-4763-9406-0C6789598867}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D6A95C2-5CA9-42CD-BDAD-DEBC584249EF}
+	EndGlobalSection
+EndGlobal
